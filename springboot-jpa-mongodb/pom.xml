@@ -44,7 +44,7 @@
 			<artifactId>spring-data-rest-hal-browser</artifactId>
 		</dependency>
 		
-		<!-- Spring Boot Starter Web MVC excluding Tomcat -->
+		<!-- Spring Boot Starter Web MVC -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
